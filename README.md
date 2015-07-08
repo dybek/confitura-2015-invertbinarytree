@@ -1,4 +1,13 @@
 # [Confitura 2015](http://tech.viacom.com/warsawsdc/confitura2015/)
+
+##Running
+Project use gradle wrapper to build.
+File /src/test/java/pl/astrait/invertbinarytree/TreeTest.java contains junit test.
+You can run test using:
+```
+gradlew test
+```
+
 ## Invert a Binary Tree
 
 Invert a binary tree.
